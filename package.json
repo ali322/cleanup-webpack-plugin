@@ -16,6 +16,10 @@
   "keywords": [
     "webpack"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali322/cleanup-webpack-plugin.git"
+  },
   "author": "alichen",
   "license": "MIT",
   "dependencies": {
